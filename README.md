@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I've been studying Computer Science since 2022, when I decide to change career from Chemistry to IT. My 10 years of previous professional experience provided me strong soft skills like communication, organization, critical and analytical thinking. My passion for challenges and curiosity help me to learn more and fast. I am interested and have been focusing my study in full stack development.
+I've been studying Computer Science since 2022, when I decide to change career from Chemistry to IT. My 10 years of previous professional experience provided me strong soft skills like communication, organization, critical and analytical thinking. My passion for challenges and curiosity help me to learn more and fast.
 
 * 🌍  I'm based in Portugal
 * ✉️  You can contact me at [anastacia.s.canto@gmail.com](mailto:anastacia.s.canto@gmail.com)
-* 🧠  I'm learning TypeScript.
+* 🧠  I'm deeping my knowledge in C++.
 * 🤝  I'm open to collaborating on amazing projects.
 * ⚡  I am also a swimmer and have two little daughters who light up my life.
 
